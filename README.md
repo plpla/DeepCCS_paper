@@ -11,6 +11,6 @@ Once it is installed, run the command `git lfs clone` instead of `git clone`.
 
 
 ### Indications   
-First decompress the archive to acces the results of the paper.
+First decompress the archive to acces the results of the paper.    
 To get the original results (no need to train the model yourself) see `DeepCCS_paper_results.ipynb`.   
 To run again the model and check those results, see `DeepCCS_reproduce_results.ipynb`.   
